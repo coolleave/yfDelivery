@@ -1,0 +1,11 @@
+(global["webpackJsonp"]=global["webpackJsonp"]||[]).push([["uni-grid_1.1.3/components/uni-badge/uni-badge"],{227:function(n,e,t){"use strict";t.r(e);var r=t(228),u=t(230);for(var i in u)["default"].indexOf(i)<0&&function(n){t.d(e,n,(function(){return u[n]}))}(i);t(232);var c,o=t(32),d=Object(o["default"])(u["default"],r["render"],r["staticRenderFns"],!1,null,null,null,!1,r["components"],c);d.options.__file="uni-grid_1.1.3/components/uni-badge/uni-badge.vue",e["default"]=d.exports},228:function(n,e,t){"use strict";t.r(e);var r=t(229);t.d(e,"render",(function(){return r["render"]})),t.d(e,"staticRenderFns",(function(){return r["staticRenderFns"]})),t.d(e,"recyclableRender",(function(){return r["recyclableRender"]})),t.d(e,"components",(function(){return r["components"]}))},229:function(n,e,t){"use strict";var r;t.r(e),t.d(e,"render",(function(){return u})),t.d(e,"staticRenderFns",(function(){return c})),t.d(e,"recyclableRender",(function(){return i})),t.d(e,"components",(function(){return r}));var u=function(){var n=this,e=n.$createElement;n._self._c},i=!1,c=[];u._withStripped=!0},230:function(n,e,t){"use strict";t.r(e);var r=t(231),u=t.n(r);for(var i in r)["default"].indexOf(i)<0&&function(n){t.d(e,n,(function(){return r[n]}))}(i);e["default"]=u.a},231:function(n,e,t){"use strict";Object.defineProperty(e,"__esModule",{value:!0}),e.default=void 0;var r={name:"UniBadge",props:{type:{type:String,default:"default"},inverted:{type:Boolean,default:!1},text:{type:String,default:""},size:{type:String,default:"normal"}},methods:{onClick:function(){this.$emit("click")}}};e.default=r},232:function(n,e,t){"use strict";t.r(e);var r=t(233),u=t.n(r);for(var i in r)["default"].indexOf(i)<0&&function(n){t.d(e,n,(function(){return r[n]}))}(i);e["default"]=u.a},233:function(n,e,t){}}]);
+//# sourceMappingURL=../../../../.sourcemap/mp-weixin/uni-grid_1.1.3/components/uni-badge/uni-badge.js.map
+;(global["webpackJsonp"] = global["webpackJsonp"] || []).push([
+    'uni-grid_1.1.3/components/uni-badge/uni-badge-create-component',
+    {
+        'uni-grid_1.1.3/components/uni-badge/uni-badge-create-component':(function(module, exports, __webpack_require__){
+            __webpack_require__('2')['createComponent'](__webpack_require__(227))
+        })
+    },
+    [['uni-grid_1.1.3/components/uni-badge/uni-badge-create-component']]
+]);

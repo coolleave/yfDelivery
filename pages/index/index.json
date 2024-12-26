@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "远方快递",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "uni-notice-bar": "/components/uni-notice-bar/uni-notice-bar",
+    "uni-grid": "/uni-grid_1.1.3/components/uni-grid/uni-grid",
+    "uni-grid-item": "/uni-grid_1.1.3/components/uni-grid-item/uni-grid-item",
+    "mpopup": "/components/xuan-popup/xuan-popup"
+  }
+}

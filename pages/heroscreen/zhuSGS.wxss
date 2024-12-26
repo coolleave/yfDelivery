@@ -1,0 +1,27 @@
+
+.content {
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+}
+.landing{
+		height: 84rpx;
+		line-height: 84rpx;
+		border-radius: 44rpx;
+		font-size: 32rpx;
+		color: white;
+		background: linear-gradient(left,#21CBBE, #f28500);
+}
+.landing2{
+		height: 84rpx;
+		width: 240rpx;
+		line-height: 84rpx;
+		border-radius: 44rpx;
+		position: relative;
+		left: 240rpx;
+		top: -150rpx;
+		font-size: 32rpx;
+		color: white;
+		background: linear-gradient(left,#21CBBE, #f28500);
+}
+

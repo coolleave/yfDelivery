@@ -1,0 +1,1 @@
+<view><view><phone-directory vue-id="2133a288-1" phones="{{phones}}" data-event-opts="{{[['^paramClick',[['paramClick']]]]}}" bind:paramClick="__e" bind:__l="__l"></phone-directory></view></view>

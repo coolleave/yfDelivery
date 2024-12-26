@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "远方快递-服务网点",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "mpopup": "/components/xuan-popup/xuan-popup"
+  }
+}

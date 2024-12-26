@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "远方快递-闪电寄",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "uni-number-box": "/components/uni-number-box/uni-number-box",
+    "uni-popup": "/components/uni-popup/uni-popup",
+    "jsfun-picker": "/components/jsfun-picker/jsfun-picker",
+    "mpopup": "/components/xuan-popup/xuan-popup"
+  }
+}

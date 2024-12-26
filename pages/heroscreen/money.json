@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "远方快递-运费时效",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "uni-number-box": "/components/uni-number-box/uni-number-box"
+  }
+}

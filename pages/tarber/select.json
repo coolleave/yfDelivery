@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "远方快递-查件",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "xfl-select": "/components/xfl-select/xfl-select",
+    "uni-search-bar": "/components/uni-search-bar/uni-search-bar",
+    "uni-steps": "/components/uni-steps/uni-steps",
+    "mpopup": "/components/xuan-popup/xuan-popup"
+  }
+}

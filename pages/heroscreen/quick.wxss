@@ -1,0 +1,146 @@
+
+.content {
+		flex-direction: column;
+		align-items: center;
+		justify-content: center;
+}
+#editor{
+		width: 180px;
+		font-size: 60%;
+		position: relative;
+		top: -250px;
+		left:90px;
+}
+#phoneinput{
+			font-size: 80%;
+			position: relative;
+			top: -257px;
+			left:155px;
+}
+#nameinput{
+				font-size: 80%;
+				position: relative;
+				top: -230px;
+				left:90px;
+}
+#jimage{
+			width: 10%; 
+			position: relative;
+			top: -80px;
+			left: 40px;
+}
+#simage{
+			width: 10%; 
+			position: relative;
+			top: -570px;
+			left: 40px;
+}
+#leftshu{
+			border-left: 1px #555555 solid;
+			height: 50px;
+			display: block;
+			position: relative;
+			top: -480px;
+			left: 280px; 
+			font-size: 80%;
+}
+#xinxin{
+			position: relative;
+			top: -520px;
+			left: 300px; 
+			font-size: 80%;
+}
+#editor2{
+			width: 180px;
+			font-size: 60%;
+			position: relative;
+			top: -740px;
+			left:90px;
+}
+#phoneinput2{
+				font-size: 80%;
+				position: relative;
+				top: -747px;
+				left:155px;
+}
+#nameinput2{
+					font-size: 80%;
+					position: relative;
+					top: -720px;
+					left:90px;
+}
+#leftshu2{
+				border-left: 1px #555555 solid;
+				height: 50px;
+				display: block;
+				position: relative;
+				top: -920px;
+				left: 280px; 
+				font-size: 80%;
+}
+#kuaisu{
+				position: relative;
+				top: -960px;
+				left: 300px; 
+				font-size: 80%;
+}
+#jixuan1{
+				position: relative;
+				top: -950px;
+				left: 30px;
+				font-size: 80%;
+}
+#jixuan2{
+				position: relative;
+				top: -970px;
+				font-size: 80%;
+				border-bottom: #808080 1px solid;
+				height: 30px;
+}
+#wuxuan{
+				border-bottom: 1px solid #808080;
+				position: relative;
+				top: -960px;
+}
+#fukuan,#wangdian,#zengzhi,#xiaogeshuo{
+			   border-bottom: 1px solid #808080;
+			   position: relative;
+			   top: -940px;
+}
+#jieshu{
+			   position: relative;
+			   top: -940px;
+			   border-bottom: 1px solid #808080;
+}
+.fangshi{
+			  position: relative;
+			  top: -930px;
+			  left: 170px;
+}
+.fangsi2{
+			  position: relative;
+			  left: -140px;
+			  font-size: 80%;
+}
+#xiadan{
+			  position: relative;
+			  top: -930px;
+			  left: 275px;
+			  width: 50px;
+			  height: 45px;
+			  text-align:center;
+			  line-height: 45px;
+			  color: white;
+}
+#tex{
+			  display: inline-block;
+			  overflow: hidden;
+			  white-space:nowrap;
+			  position: relative;
+			  left: 100px;
+			  top: -21px;
+			  font-size: 80%;
+			  width: 100px;
+			  text-overflow:ellipsis;
+}
+

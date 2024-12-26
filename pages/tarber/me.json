@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "远方快递-用户中心",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "input-box": "/components/input-box/input-box",
+    "mpopup": "/components/xuan-popup/xuan-popup"
+  }
+}

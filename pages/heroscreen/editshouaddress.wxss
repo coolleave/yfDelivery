@@ -1,0 +1,32 @@
+
+.content {
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+}
+#weizhi{
+	width: 30px;
+	position: relative;
+	top: -130px;
+	left: 320px;
+}
+.landing{
+		height: 84rpx;
+		line-height: 84rpx;
+		border-radius: 44rpx;
+		font-size: 32rpx;
+		width: 380rpx;
+		color: white;
+		background: linear-gradient(left,#21CBBE, #f28500);
+}
+#textarea{
+		border: 1px solid #C0C0C0;
+		font-size: 15px;
+		height: 100px;
+		position: relative;
+		color: #4a4a4a;
+		top: -210px;
+		left: 60px;
+		width: 270px;
+}
+
